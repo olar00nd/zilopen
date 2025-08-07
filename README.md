@@ -6,7 +6,7 @@
 ### Установка:
 1. Клонируйте репозиторий и перейдите в него:
 ```
-git clone [https://github.com/theshtn/ShtnPy-WifiBrutforce.git](https://github.com/olar00nd/zilopen.git)
+git clone https://github.com/olar00nd/zilopen.git
 cd ShtnPy-WifiBrutforce
 ```
 2. Установите виртуальное окружение и активируйте его:
